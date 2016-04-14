@@ -84,6 +84,7 @@ from .vfs import (
     NEW_DIR_MODE,
     NEW_FILE_MODE)
 from .vfs_local import LocalFS
+from .vfs_s3 import S3FS
 from .fsck_work_item import WorkItem
 from .repo_fs import RepositoryFS
 from .lockmgr import LockManager

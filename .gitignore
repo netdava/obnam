@@ -2,3 +2,7 @@ manual/*.html
 manual/*.pdf
 yarns/*.html
 yarns/*.pdf
+
+*.pyc
+*.so
+.coverage
